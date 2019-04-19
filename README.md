@@ -1,7 +1,7 @@
-# Sandwich Club Mobile App Project 
+# Sandwich Club Udacity Mobile App Project 
 
 ## Project Overview
-In this project, you will complete the **Sandwich Club** app to
+Completed the **Sandwich Club** app to
 show the details of a sandwich once it is selected.
 
 ## App Purpose
